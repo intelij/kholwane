@@ -513,13 +513,13 @@
 
 
 
-<!-- Google Map Section -->
-<div id="google-map">
-    <div class="map-container">
-        <div id="googleMaps" class="google-map-container"></div>
-    </div>
-</div><!-- /#google-map-->
-<!-- Google Map Section End -->
+{{--<!-- Google Map Section -->--}}
+{{--<div id="google-map">--}}
+    {{--<div class="map-container">--}}
+        {{--<div id="googleMaps" class="google-map-container"></div>--}}
+    {{--</div>--}}
+{{--</div><!-- /#google-map-->--}}
+{{--<!-- Google Map Section End -->--}}
 
 
 <!-- Scroll to Top -->
@@ -537,17 +537,17 @@
 <footer id="footer-section">
     <div class="footer-section">
         <div class="container">
-            <div class="footer-social-btn pull-right">
-                <a href="index.html#" class="twitter-btn"><i class="fa fa-twitter"></i></a>
-                <a href="index.html#" class="facebook-btn"><i class="fa fa-facebook"></i></a>
-                <a href="index.html#" class="github-btn"><i class="fa fa-github-alt"></i></a>
-                <a href="index.html#" class="vimeo-btn"><i class="fa fa-vimeo-square"></i></a>
-                <a href="index.html#" class="pinterest-btn"><i class="fa fa-pinterest"></i></a>
-                <a href="index.html#" class="google-plus-btn"><i class="fa fa-google-plus"></i></a>
-                <a href="index.html#" class="youtube-btn"><i class="fa fa-youtube"></i></a>
-                <a href="index.html#" class="dribbble-btn"><i class="fa fa-dribbble"></i></a>
-                <a href="index.html#" class="linkedin-btn"><i class="fa fa-linkedin"></i></a>
-            </div><!-- /.footer-social-btn -->
+            {{--<div class="footer-social-btn pull-right">--}}
+                {{--<a href="index.html#" class="twitter-btn"><i class="fa fa-twitter"></i></a>--}}
+                {{--<a href="index.html#" class="facebook-btn"><i class="fa fa-facebook"></i></a>--}}
+                {{--<a href="index.html#" class="github-btn"><i class="fa fa-github-alt"></i></a>--}}
+                {{--<a href="index.html#" class="vimeo-btn"><i class="fa fa-vimeo-square"></i></a>--}}
+                {{--<a href="index.html#" class="pinterest-btn"><i class="fa fa-pinterest"></i></a>--}}
+                {{--<a href="index.html#" class="google-plus-btn"><i class="fa fa-google-plus"></i></a>--}}
+                {{--<a href="index.html#" class="youtube-btn"><i class="fa fa-youtube"></i></a>--}}
+                {{--<a href="index.html#" class="dribbble-btn"><i class="fa fa-dribbble"></i></a>--}}
+                {{--<a href="index.html#" class="linkedin-btn"><i class="fa fa-linkedin"></i></a>--}}
+            {{--</div><!-- /.footer-social-btn -->--}}
             <div class="copyrights pull-left">
                 &copy; <a href="index.html#">Kholwani Soup Kithcen</a> 2019, Developed by <a href="http://www.gyapom.com">Gyapom LTD</a>
             </div><!-- /.copyrights -->
