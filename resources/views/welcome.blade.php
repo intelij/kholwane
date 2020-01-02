@@ -57,7 +57,7 @@
                 <!-- Logo -->
                 <h1>
                     <a class="navbar-brand" href="index.html">
-                        Kholwane
+                        Kholwani
                         <!--<img class="logo" src="assets/images/logo.png" alt="Logo" rel="hoome">-->
                     </a><!-- /.navbar-brand -->
                 </h1>
@@ -120,7 +120,8 @@
                 <div class="section-head">
                     <h2 class="section-title">About</h2>
                     <p class="section-description">
-                        Our mission is to assist in the promotion of healthy, successful aging through provision of nutritious meals to older people who are in need. The kitchen will i​nitially offer meals to older people residing in Mpopoma, Mabutweni, Iminyela, Pelandaba and Matshobana townships before growing their service to townships further afield and ultimately nationally. The kitchen will deliver its services with the aid of volunteers who will cook and serve the meals and will secure foodstuffs and funding from donors both nationally and internationally.
+
+                        Our mission is to assist in the promotion of healthy, successful aging through provision of nutritious meals to older people who are in need. The kitchen will initially offer meals to older people residing in Mpopoma, Mabutweni, Iminyela, Pelandaba and Matshobana townships before growing its service to townships further afield and ultimately nationally. The kitchen will deliver its services with the aid of volunteers who will cook and serve the meals and will secure foodstuffs and funding from donors both nationally and internationally.
                     </p><!-- /.section-description -->
                 </div><!-- /.section-head -->
 
@@ -189,10 +190,7 @@
                             </div>
                             <h3 class="content-title">Our Mission</h3>
                             <p>
-                                <strong>Our mission is to assist in the promotion of healthy, successful aging through provision of nutritious meals to older people who are in need. The kitchen will  i​nitially offer meals to older people residing in Mpopoma, Mabutweni, Iminyela, Pelandaba and Matshobana townships before growing their service to townships further afield and ultimately nationally. The kitchen will deliver its services with the aid of volunteers who will cook and serve the meals and will secure foodstuffs and funding from donors both nationally and internationally.</strong>
-                            </p>
-                            <p>
-                                Our vision is to improve older people’s health and wellbeing by becoming a first class national provider of free nutritional meals to all elderly people in need.
+                                <strong>Our vision is to improve older people’s health and wellbeing by becoming a first class national provider of free nutritional meals to all elderly people in need.</strong>
                             </p>
                         </div><!-- /.content-box -->
                     </div><!-- /.section-content -->
@@ -219,7 +217,7 @@
                     We Need YOU
                 </h3><!-- /.parallax-title -->
                 <p class="parallax-description">
-                    For Kholwani to achieve its objective of providing nutritional support to the elderly, it needs YOU. We cannot achieve this noble goal of ensuring that our elders no longer go hungry without your support. It is you who makes us able to help. So please, in whatever little way you can, HELP US HELP our elderly enjoy a healthier old age.
+                    For Kholwani to achieve its objective of providing nutritional support to the elderly, it needs YOU. We cannot achieve this noble goal of ensuring that our elders no longer go hungry without your support. It is you who makes us able to help. So please, in whatever little way you can, HELP US HELP our elderly enjoy a healthier old age. You can do this through donations or by becoming a volunteer.
                 </p><!-- /.parallax-description -->
 
                 <p>
@@ -263,16 +261,7 @@
                             <!--</p>-->
 
                             <p>
-                                <strong>Do you like to work for the Elderly? The Elderly are neglected in our communities, the time to act is now.  We would like to welcome to our team as a volunteer.</strong>
-                            </p>
-                            <p>
-                                Where you want to help but are not able to do so financially, you can still be able to help us help our elderly through other ways. You can become one of our volunteers to cook, serve or clean up after we have served the meals. You can also help by spreading the word to others who may in turn help by way of financial assistance, donating their time or by spreading the word.
-                                <!--At first, you have to submit your information and apply for becoming a volunteer. We will review your information within a few days and then contact with you. After finalizing your information, a confirmation message will send to you with necessary documents.-->
-                            </p>
-                            <p>
-                                <a href="index.html#" class="btn custom-btn ">
-                                    Apply Now
-                                </a>
+                                <strong>If you want to help but are not able to do so financially, you can still be able to Help us Help our elderly through other ways. You can become one of our volunteers to cook, serve or clean up after we have served the meals. You can also help by spreading the word to others who may in turn help by way of financial assistance, donating their time or by spreading the word.  If this is something you would want to do, we would like to welcome you to our team as a volunteer. To join us, please complete the form below.</strong>
                             </p>
                         </div><!-- /.content-box -->
                     </div><!-- /.section-content -->
@@ -310,13 +299,9 @@
                         <div class="content-box col-md-8 from-bottom delay-600">
 
                             <p>
-                                A small donation will go a long way to help us help our most vulnerable in society. A donation of even $2.00 will buy bread rolls, bread, vegetables and even firewood. Any of this will go a long way towards giving our elders one more nutritional meal. Donations of larger sums will allow us provide even more support to more needy older people. To donate, please contact us on our form below.
+                                To Help us Help, a small donation will go a long way in helping our most vulnerable in society. A donation of even $2.00 / £2.00 will buy bread rolls, bread, vegetables and even firewood. Any of this will be very helpful in our efforts to give older people much needed nutritious meals. Donations of larger sums will allow us provide even more support to more needy older people. To donate, please contact us on our form below.
                             </p>
-                            <p>
-                                <a href="index.html#contact" class="btn custom-btn ">
-                                    Donate Now
-                                </a>
-                            </p>
+
                         </div><!-- /.content-box -->
                     </div><!-- /.section-content -->
                 </div><!-- /.row -->
@@ -346,7 +331,11 @@
                                     What we do
                                 </h3><!-- /.content-title -->
                                 <p>
-                                    Kholwani Soup Kitchen provides much needed nutritional vegetables and soup; served with bread rolls to the elderly members of the aforementioned townships.   Kholwani formally provided its first meal to the community on the 20th of March 2018 at 95/7844 Mpopoma. Patrons were initially forecast to number up to 20 but an overwhelming response saw 98 elderly people patronise the kitchen.   With the support of its voluntary members, Kholwani managed to provide nutritious meal support to the elderly.  Due to the economic hardships the country has suffered through the years, such meals have become difficult for most elderly people to get. Kholwani presently provides meals once a month but aims to have at least two soup kitchens weekly
+                                    Kholwani Soup Kitchen provides much needed nutritional vegetables and soup; served with bread rolls to the elderly members of the community. It formally provided its first meal to the elderly on the 20th of March 2018 at 95/7844 Mpopoma.
+                                </p>
+                                <p>
+                                    Patrons were initially forecast to number up to 20 but an overwhelming response saw 98 elderly people patronise the kitchen. With the support of its voluntary members, Kholwani managed to provide nutritious meal support to them. Kholwani presently provides meals once a month but aims to have at least two soup kitchens weekly
+
                                 </p>
                             </div><!-- /.content-box -->
                         </div><!-- /.col-md-4 -->
@@ -442,7 +431,10 @@
                     Why our service
                 </h2><!-- /.section-title -->
                 <p class="section-description">
-                    Zimbabwe is presently undergoing an economic challenge of unprecedented proportions. In efforts to help mitigate the effects of the current debilitating situation, older people have emerged as a group of vulnerable people that have been side-lined.  Focus appears to be on vulnerable children, the disabled and the ill. This has left vulnerable older people needing to fend for themselves. This is despite older people needing as much support as other vulnerable groups. At this point in their lives, the elderly are no longer able to scrap for food/work, are afflicted by disease that debilitates them, may be losing their cognitive functioning and beginning to experience dementia and more critically, are in need of a well-balanced diet due to a weaker immune system that repairs the body slower than the general majority.  Kholwani’s service is therefore critical to the wellbeing of our elders as it provides much needed food relief and nutritional support to this vulnerable group within Zimbabwean society.
+                    Available evidence (Sahyoun, Zhang & Serdula 2006) identifies that as humans grow older, the consumption of healthy foods such as vegetables becomes more important.
+
+                    Older adults are at high risk of developing chronic conditions and a well-balanced diet is an effective way of preventing the occurrence of various ailments. However, the prevailing macro-economic situation in Zimbabwe has meant that the vast majority of people are unable to afford an adequate diet.  Zimbabwe is presently undergoing economic challenges of unprecedented proportions. In efforts to help alleviate the effects of the current devastating situation, older people have emerged as a group of vulnerable people that have been side-lined. Focus appears to be on vulnerable children, the disabled and the ill. This has left vulnerable older people needing to fend for themselves. This is despite older people needing as much support as other vulnerable groups. At this point in their lives, the elderly are no longer able to scrap for food/work, suffer disease that weakens them and may be losing their cognitive functioning and beginning to experience dementia. More critically, older people are in need of a well-balanced diet due to a weaker immune system that repairs the body slower than the general majority. Kholwani’s service is therefore critical to the wellbeing of our elders as it provides much needed food relief and nutritional support. And as one wise elder once said, "a community's success is measured by how well it takes care of the vulnerable and weak around it".
+
                 </p>
             </div><!-- /.section-head -->
 
@@ -465,31 +457,20 @@
                     Contact
                 </h2>
                 <p class="section-description">
-                    IF YOU FEEL, NEED WORKING FOR CHILD PLEASE CONTACT WITH US AND LET US KNOW HOW YOU LIKE TO WORK FOR THEM. CONTENT WITH US IF ANY MORE INFORMATION NEEDED.
-                </p>
+                    To get in touch with suggestions, enquiries, want to work with or to donate please get in touch using the form below. Alternatively, please use any of the contact ifo below. </p>
             </div><!-- /.section-head -->
         </div><!-- /.container -->
 
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="contact-form-container">
-                        <h3 class="content-title">
-                            Drop us a message
-                        </h3>
 
-                        <p>If you need more charity website templates or this charity website template contact with us. We will help you to make successful any of your charity works. Feel free to contact with us through mail address.</p>
-
-                    </div><!-- /.contact-form-container -->
-                </div><!-- /.col-md-6 -->
-
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <div class="contact-info">
                         <h3 class="content-title">
                             Contact Info
                         </h3>
 
-                        <address>
+                        <address  class="col-md-6">
                             <ul class="contact-address">
                                 <li class="fa-map-marker">
                                     38 Aldercroft Avenue, Bolton, BL2 5AD
@@ -497,12 +478,26 @@
                                 <li class="fa-map-marker">
                                     95/7844 Mpopoma South, Bulawayo, Zimbabwe
                                 </li>
-                                <li  class="fa-phone">
-                                    +44 75 68 544504
-                                </li>
                                 <li class="fa-envelope">
                                     support@kholwanisoupkitchen.com
                                 </li>
+
+                            </ul><!-- /.contact-address -->
+                        </address>
+
+                        <address  class="col-md-6">
+                            <ul class="contact-address">
+                                <li  class="fa-phone">
+                                    Nqobile Shingirirai Ncube +263 774 45 5897
+                                </li>
+                                <li  class="fa-phone">
+                                    SibanganI Malunga +263 773 570 905
+                                </li>
+                                <li  class="fa-phone">
+                                    Tanaka Mandaza +44 785 088 4514
+                                </li>
+
+
                             </ul><!-- /.contact-address -->
                         </address>
                     </div><!-- /.contact-info -->
@@ -554,7 +549,7 @@
                 <a href="index.html#" class="linkedin-btn"><i class="fa fa-linkedin"></i></a>
             </div><!-- /.footer-social-btn -->
             <div class="copyrights pull-left">
-                &copy; <a href="index.html#">Kholwane Soup Kithcen</a> 2019, Developed by <a href="http://www.gyapom.com">Gyapom LTD</a>
+                &copy; <a href="index.html#">Kholwani Soup Kithcen</a> 2019, Developed by <a href="http://www.gyapom.com">Gyapom LTD</a>
             </div><!-- /.copyrights -->
 
 
