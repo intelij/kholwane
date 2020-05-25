@@ -57,8 +57,7 @@
                 <!-- Logo -->
                 <h1>
                     <a class="navbar-brand" href="index.html">
-                        Kholwani
-                        <!--<img class="logo" src="assets/images/logo.png" alt="Logo" rel="hoome">-->
+                        <img class="logo" src="assets/images/a-logo.png" alt="Kholwani" rel="hoome">
                     </a><!-- /.navbar-brand -->
                 </h1>
             </div> <!-- /.navbar-header -->
